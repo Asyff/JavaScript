@@ -1,6 +1,3 @@
-console.log(`Hello`);
-console.log(`Living is fun`);
-
 
 window.alert(`This is an alert!!!`);
 
