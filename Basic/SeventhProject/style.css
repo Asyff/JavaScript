@@ -1,0 +1,24 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#btn{
+    font-size: 20px;
+    padding: 5px 25px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.lab{
+    font-size: 20px;
+    
+}
+
+#btn:hover{
+    background-color: rgb(255, 138, 127);
+    transform: scale(1.05);
+    
+}
