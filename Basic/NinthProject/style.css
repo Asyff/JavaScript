@@ -1,0 +1,14 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+
+#submit{
+    font-size: 1em;
+    background-color: aqua;
+}
+
+#submit:hover{
+    scale: 1.05;
+    background-color: brown;
+}
